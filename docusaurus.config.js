@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Multicraft 8 聆风世界',
   tagline: '服务器帮助手册与规章制度',
-  favicon: 'img/multicraft8.ico',
+  favicon: 'img/wikilogo.ico',
 
   // Set the production url of your site here
   url: 'https://zeroexact.github.io',
