@@ -102,20 +102,20 @@ const config = {
             ],
           },
           {
-            title: '交流',
+            title: '交流群',
             items: [
               {
-                label: 'QQ群',
+                label: '点击加入',
                 href: 'https://jq.qq.com/?_wv=1027&k=QKurhX6E',
               },
             ],
           },
           {
-            title: '插件发布',
+            title: '宣传帖地址',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/Neige7/Wiki-Template',
+                label: '暂未发布',
+                // href: 'https://github.com/Neige7/Wiki-Template',
               },
             ],
           },
