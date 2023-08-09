@@ -105,8 +105,8 @@ const config = {
             title: '交流',
             items: [
               {
-                label: 'QQ群',
-                href: 'https://jq.qq.com/?_wv=1027&k=QKurhX6E',
+                label: '服务器QQ群',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=t2DvS_iQfX0wXXLTO6LWb1b7vIV-yX15&authKey=10TPvEfnkfuuB1c%2B%2BhPObbOs3U42Yw7tigriT64Rx37YNZeCeideYUyT990zsobO&noverify=0&group_code=96681597',
               },
             ],
           },
@@ -121,7 +121,7 @@ const config = {
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ZeroExact, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
