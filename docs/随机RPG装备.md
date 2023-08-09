@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Fork仓库
+# 随机RPG准备
 
 * 点击本仓库右上角的Fork按钮
 
