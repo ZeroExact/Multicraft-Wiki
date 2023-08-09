@@ -62,7 +62,7 @@ const config = {
         title: 'Multicraft',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         hideOnScroll: false,
         items: [
