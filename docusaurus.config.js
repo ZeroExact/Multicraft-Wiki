@@ -59,7 +59,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki-Template',
+        title: 'Multicraft',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
