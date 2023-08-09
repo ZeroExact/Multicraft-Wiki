@@ -102,10 +102,10 @@ const config = {
             ],
           },
           {
-            title: '交流',
+            title: '交流群',
             items: [
               {
-                label: '服务器QQ群',
+                label: '点击加入',
                 href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=t2DvS_iQfX0wXXLTO6LWb1b7vIV-yX15&authKey=10TPvEfnkfuuB1c%2B%2BhPObbOs3U42Yw7tigriT64Rx37YNZeCeideYUyT990zsobO&noverify=0&group_code=96681597',
               },
             ],
