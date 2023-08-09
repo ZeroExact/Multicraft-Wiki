@@ -75,10 +75,10 @@ const config = {
           // 搜索框
           {
             type: 'search',
-            position: 'right',
+            position: 'left',
           },
           {
-            href: 'https://github.com/Neige7/Wiki-Template',
+            href: 'https://github.com/ZeroExact/Multicraft-Wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: '点击加入',
-                href: 'https://jq.qq.com/?_wv=1027&k=QKurhX6E',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=FB5paTblxk7_aQNQaw2FolsX4RoJxqV8&authKey=gZNKHN4B4R9sJrDc5gwJv7NTFMclOF1Vj%2B3dTXQ3oc11NP6nHz96RVb6DU3RzKex&noverify=0&group_code=96681597',
               },
             ],
           },
