@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: '暂未发布',
-                // href: 'https://github.com/Neige7/Wiki-Template',
+                href: 'https://github.com/ZeroExact/Multicraft-Wiki',
               },
             ],
           },
