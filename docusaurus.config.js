@@ -93,20 +93,24 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '文档',
+            title: '皮肤站',
             items: [
               {
-                label: '开始',
-                to: '/intro',
+                label: '点击前往',
+                href: 'https://www.multicraft.icu/',
               },
             ],
           },
           {
-            title: '交流群',
+            title: '联系我们',
             items: [
               {
-                label: '点击加入',
+                label: '点击加入QQ群',
                 href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=FB5paTblxk7_aQNQaw2FolsX4RoJxqV8&authKey=gZNKHN4B4R9sJrDc5gwJv7NTFMclOF1Vj%2B3dTXQ3oc11NP6nHz96RVb6DU3RzKex&noverify=0&group_code=96681597',
+              },
+              {
+                label: '点击联系服主',
+                href: 'https://wpa.qq.com/msgrd?v=3&uin=2675562079&site=Minecraft(%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C)%E4%B8%AD%E6%96%87%E8%AE%BA%E5%9D%9B&menu=yes&from=discuz',
               },
             ],
           },
@@ -114,8 +118,8 @@ const config = {
             title: '宣传帖地址',
             items: [
               {
-                label: '暂未发布',
-                href: 'https://github.com/ZeroExact/Multicraft-Wiki',
+                label: 'MCBBS 中文论坛',
+                href: 'https://www.mcbbs.net/thread-1464887-1-1.html',
               },
             ],
           },
