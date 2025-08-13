@@ -1,1 +1,0 @@
-(self.webpackChunkmulticraft_wiki=self.webpackChunkmulticraft_wiki||[]).push([[525],{5525:()=>{}}]);
